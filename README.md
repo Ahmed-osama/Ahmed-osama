@@ -1,4 +1,4 @@
-![Ahmed Osama - frontend engineer](./ahmed.png)
+![Ahmed Osama - frontend engineer](https://raw.githubusercontent.com/Ahmed-osama/Ahmed-osama/master/ahmed.png)
 
 # Ahmed Osama
 
@@ -24,4 +24,4 @@ hello there i'm Ahmed, i'm experienced front end engineer passionate about
 - linkedin : [https://www.linkedin.com/in/ahmed-osama-51792a7b/](https://www.linkedin.com/in/ahmed-osama-51792a7b/)
 
 - email : [ahmod.osama@gmail.com](mailto:ahmod.osama@gmail.com)
-- cv : [Ahmed Osama - Frontend engineer.pdf](Ahmed Osama - Frontend engineer.pdf)
+- cv : [Ahmed Osama - Frontend engineer.pdf](https://github.com/Ahmed-osama/Ahmed-osama/raw/master/Ahmed%20Osama%20-%20Frontend%20engineer.pdf)
