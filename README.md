@@ -1,4 +1,4 @@
-![Ahmed Osama - frontend engineer](ahmed.png)
+![Ahmed Osama - frontend engineer](./ahmed.png)
 
 # Ahmed Osama
 
